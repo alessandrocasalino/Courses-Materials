@@ -4,7 +4,8 @@ Repository for some courses material I taught in the past years.
 
 ## Programming
 
-- `C++` Templates (Programming School at Cineca - 05/05/2023)
+- `C++` Templates (C++ Introduction School at Cineca - 05/05/2023)
+- `C++` Templates (C++ Introduction School at Cineca - 08/05/2024)
 
 ## Parallel Programming
 
